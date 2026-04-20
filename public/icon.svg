@@ -1,0 +1,11 @@
+<!-- Save as icon source - convert to PNG for production -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#4a4660"/>
+  <g transform="translate(96, 96)">
+    <!-- 4 quadrant grid -->
+    <rect x="0" y="0" width="148" height="148" rx="16" fill="#a5a1bb"/>
+    <rect x="172" y="0" width="148" height="148" rx="16" fill="#e7f0d8"/>
+    <rect x="0" y="172" width="148" height="148" rx="16" fill="#deede4"/>
+    <rect x="172" y="172" width="148" height="148" rx="16" fill="#c8d1d0"/>
+  </g>
+</svg>
